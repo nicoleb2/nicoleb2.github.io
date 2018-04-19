@@ -1,0 +1,26 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Oswald|PT+Sans');
+
+body {
+  background-color: white;
+  font-family: "Oswald", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  max-width: 400px;
+  margin: auto;
+  color: #444;
+}
+
+h1 {
+  font-family: "Oswald", serif;
+  font-size: 32px;
+  color: green;
+}
+
+ul {
+  font-family: "PT Sans", serif;
+  font-size: 16px;
+  color: darkcyan;
+}
